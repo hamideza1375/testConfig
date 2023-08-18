@@ -1,0 +1,8 @@
+ _useEffect رو تو فایل _init تبدیل یه useEffect بکن 
+
+ Suspense نباید دور هیچ کامپوننتی باشه
+
+ Modal نباید تو صفحه باشه
+
+ p.navigation.navigate رو تبدیل به 
+ navigation.navigate() بکن

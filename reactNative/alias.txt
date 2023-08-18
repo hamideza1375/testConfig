@@ -1,0 +1,7 @@
+[cmd.exe]
+    c=cls
+    android=npm run android 
+    ns=npm start
+    n=npm run 
+    web=npm run web 
+
